@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v15666 -->
+
+  <title>Submit a request &ndash; Quora Help Center</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="apwTP4Y5RPGWLecQier95SWmnkRpLN4kKsKhmrYS3y2M4ZGI+Nt/Le1xG7NVPlvHaam6iIs3zC66lcPdhbuTIw==" />
+  <link href="https://help.quora.com/hc/en-us/requests/new" rel="canonical" />
+
+  <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-801bb8a026bcb484bbace7b407ab64ad.css" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="//p20.zdassets.com/hc/theming_assets/569691/98645/style.css?digest=360225502472" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/569691/767b984307430113bae2990174327f366e41f206.png" />
+
+  <!--[if lt IE 9]>
+  <script>
+    //Enable HTML5 elements for <IE9
+    'abbr article aside audio bdi canvas data datalist details dialog \
+    figcaption figure footer header hgroup main mark meter nav output \
+    progress section summary template time video'.replace(/\w+/g,function(n){document.createElement(n)});
+  </script>
+<![endif]-->
+
+  <script src="//static.zdassets.com/hc/assets/jquery-b60ddb79ff2563b75442a6bac88b00b5.js"></script>
+  
+  
+  
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <script type="text/javascript" src="//p20.zdassets.com/hc/theming_assets/569691/98645/script.js?digest=360225502472"></script>
+</head>
+<body class="">
+  
+  
+
+
+  
+
+
+  <header class="header">
+  <div class="logo">
+    <a href=https://www.quora.com/>
+    <img src="//theme.zdassets.com/theme_assets/569691/a8b3a1d6e3522fcc79d9e7149496b61d59f52b92.png" />
+  	</a>
+  </div>
+  <div class="nav-wrapper">
+    <span class="icon-menu"></span>
+    <nav class="user-nav" id="user-nav">
+      <a href=https://help.quora.com/hc/en-us/requests/new?ticket_form_id=239223>Report a bug</a>
+      <a href=https://help.quora.com/hc/en-us/requests/new>Contact Us</a>
+      <a href=https://www.quora.com/>Return to Quora</a>
+    </nav>
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="Quora Help Center">
+      
+        <a href="/hc/en-us">Quora Help Center</a>
+      
+    </li>
+  
+    <li title="Submit a request">
+      
+        Submit a request
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+  </nav>
+
+  <h1>
+    Submit a request
+    
+  </h1>
+  
+  <div class="form">
+    <form id="new_request" class="request-form" data-form="" data-form-type="request" action="/hc/en-us/requests" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GJLpnEPtHZ/6ifkra/5+J4aqynDzy154ioMfolUTA4f+72srPQ8mQ4HVBYi3KtgFyqXuvBHQTHIa1H3lZrpPiQ==" />
+
+
+
+
+  
+
+  <div class="form-field select optional request_ticket_form_id"><label for="request_issue_type_select">What can we help you with?</label>
+<select name="request[ticket_form_id]" id="request_issue_type_select" aria-label="What can we help you with?"><option data-url="https://help.quora.com/hc/en-us/requests/new" value="-">-</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=198706" value="198706">I need help with my account</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=198746" value="198746">I want to appeal a moderation decision</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=202446" value="202446">I have a safety concern</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=239423" value="239423">I want to request a verified badge</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=202466" value="202466">General feedback</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=239223" value="239223">Report a bug</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=360000010543" value="360000010543">I want to report copyright infringement</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=360000018006" value="360000018006">I want to report trademark infringement</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=360000018026" value="360000018026">I want to report other infringement</option>
+<option data-url="https://help.quora.com/hc/en-us/requests/new?ticket_form_id=360000341091" value="360000341091">I am a business</option></select></div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+</form>
+
+
+
+  </div>
+
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <a href=https://www.quora.com/about>About</a>
+    <a href="https://www.quora.com/business">Businesses</a>
+    <a href="https://blog.quora.com/">Blog</a>
+    <a href="https://quora.com/careers">Careers</a>
+    <a href=https://help.quora.com/hc/en-us/requests/new>Contact Us</a>
+    <a href=https://www.quora.com/about/tos>Terms</a>
+    <a href=https://www.quora.com/about/privacy>Privacy</a>
+    <a href="https://www.quora.com">Quora Inc. © 2019</a>
+
+      
+    <div class="footer-language-selector">
+        <div class="dropdown language-selector" aria-haspopup="true">
+          <a class="dropdown-toggle">
+            English (US)
+          </a>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/da?return_to=%2Fhc%2Fda%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Dansk
+              </a>
+            
+              <a href="/hc/change_language/de?return_to=%2Fhc%2Fde%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Deutsch
+              </a>
+            
+              <a href="/hc/change_language/es?return_to=%2Fhc%2Fes%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Español
+              </a>
+            
+              <a href="/hc/change_language/fi?return_to=%2Fhc%2Ffi%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Suomi
+              </a>
+            
+              <a href="/hc/change_language/fr?return_to=%2Fhc%2Ffr%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Français
+              </a>
+            
+              <a href="/hc/change_language/hi?return_to=%2Fhc%2Fhi%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                हिंदी
+              </a>
+            
+              <a href="/hc/change_language/id?return_to=%2Fhc%2Fid%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Bahasa Indonesia
+              </a>
+            
+              <a href="/hc/change_language/it?return_to=%2Fhc%2Fit%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Italiano
+              </a>
+            
+              <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                日本語
+              </a>
+            
+              <a href="/hc/change_language/nl?return_to=%2Fhc%2Fnl%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Nederlands
+              </a>
+            
+              <a href="/hc/change_language/no?return_to=%2Fhc%2Fno%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Norsk
+              </a>
+            
+              <a href="/hc/change_language/pt?return_to=%2Fhc%2Fpt%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Português
+              </a>
+            
+              <a href="/hc/change_language/sv?return_to=%2Fhc%2Fsv%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+                Svenska
+              </a>
+            
+          </span>
+        </div>
+      </div>
+      
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  <script type="text/javascript" src="//static.zdassets.com/hc/assets/locales/en-us-79ffb202529a74f6d4487bb0a40a70a1.js"></script>
+  <script src="https://quora.zendesk.com/auth/v2/host.js" data-brand-id="98645" data-return-to="https://help.quora.com/hc/en-us/requests/new" data-theme="hc" data-locale="en-us" data-auth-origin="98645,true,true"></script>
+  
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"quora","environment":"production","name":"Quora"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"5rDQjRFR5crjqKM2bQ2CDr5OESjSGKmLelleyYetQUAAzVI6b7PeFpj0X5Wx2SQs8kE15DADu4HqDjyOtAQNTg==","shared_csrf_token":null},"settings":{"zopim_enabled":false,"spam_filter_enabled":true},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://quora.zendesk.com","current_host_mapping":"help.quora.com","current_path":"/hc/en-us/requests/new","authentication_domain":"https://quora.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"08eb8bdb94650cf828ca977b6ad47609346149f2","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_anonymous_kb_voting":true,"has_professional_upsell":false,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"has_copied_content":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://help.quora.com/hc/admin/plan?locale=en-us","manage_content_url":"https://help.quora.com/hc/en-us","arrange_content_url":"https://help.quora.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://help.quora.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://quora.zendesk.com/knowledge/user_segments?brand_id=98645","import_articles_url":"https://help.quora.com/hc/admin/import_articles?locale=en-us","has_community_enabled":false,"has_internal_sections":true,"has_answer_bot_web_form_enabled":true,"billing_url":"/access/return_to?return_to=https://quora.zendesk.com/agent/admin/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"https://help.quora.com/hc/admin/answer_bot?locale=en-us","is_account_owner":false,"has_theming_templates":true,"theming_center_url":"https://help.quora.com/theming","theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"has_guide_arrange_articles":true,"arrange_articles_url":"https://quora.zendesk.com/knowledge/arrange?brand_id=98645","article_verification_url":"https://quora.zendesk.com/knowledge/verification?brand_id=98645","has_article_verification":false,"has_guide_language_settings":true,"guide_language_settings_url":"https://help.quora.com/hc/admin/language_settings?locale=en-us","has_requests_filter_cleanup":true,"has_fetch_authenticity_token":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-a6f7dcb83f0447762344b182d9be5a5d.js"></script>
+
+  <script type="text/javascript">
+    (function() {
+  var Tracker = {};
+
+  Tracker.track = function(eventName, data) {
+    var url = "https://help.quora.com/hc/tracking/events?locale=en-us";
+
+    var payload = {
+      "event": eventName,
+      "data": data,
+      "referrer": document.referrer
+    };
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("POST", url, true);
+    xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+    xhr.send(JSON.stringify(payload));
+  };
+
+    Tracker.track("submit_request_form_viewed", "BAh7BzoVcGFyZW50X3RpY2tldF9pZDA6Cl9tZXRhews6D2FjY291bnRfaWRpA1uxCDoTaGVscF9jZW50ZXJfaWRpBPSq7As6DWJyYW5kX2lkaQNVgQE6DHVzZXJfaWQwOg51c2VyX3JvbGVJIg5hbm9ueW1vdXMGOgZFVDoLbG9jYWxlSSIKZW4tdXMGOwxU--c94d1511997afe04532c32be8bb5bc338f8e0728");
+})();
+
+  </script>
+</body>
+</html>
